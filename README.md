@@ -101,15 +101,10 @@
   <a href="https://github.com/tanmayjoddar"><img src="https://skillicons.dev/icons?i=github" width="40" /></a>
   <a href="https://discord.com/users/yourboitj"><img src="https://skillicons.dev/icons?i=discord" width="40" /></a>
   <a href="https://www.youtube.com/@TJ678F"><img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" height="30"/></a>
-  <a href="https://instagram.com/yourhandle"><img src="https://skillicons.dev/icons?i=instagram" width="40" /></a>
+  <a href="https://www.instagram.com/may_tan010"><img src="https://skillicons.dev/icons?i=instagram" width="40" /></a>
   <a href="https://x.com/joddar_tan8236"><img src="https://skillicons.dev/icons?i=twitter" width="40" /></a>
 </p>
 
-
----
-
-> “I don’t just build endpoints — I build resilient backend systems that empower the frontend, deliver value and scale.”  
-> — Tanmay Joddar
 
 ---
 
