@@ -89,16 +89,6 @@
 
 ---
 
-### 📂 Selected Projects  
-*(Replace with your actual projects, links, and brief points)*  
-| Project | Description | My Role |
-|--------|-------------|---------|
-| **E-Commerce API** | Built a microservices backend with orders, payments, inventory; deployed on AWS ECS. | Lead backend & architecture |
-| **High-Traffic REST API** | Node.js/Express + PostgreSQL supporting ~200 k users/month; JWT auth & RBAC. | Solo backend engineer |
-| **Full-Stack App (React + Django)** | Migrated monolith to modular backend, implemented caching + query optimisation. | Backend lead & full-stack support |
-
----
-
 ### 📈 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanmayjoddar&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanmayjoddar&layout=compact&theme=radical)
@@ -106,11 +96,16 @@
 ---
 
 ### 🤝 Let’s Connect  
-- 📧 Email: your.email@example.com  
-- 🔗 LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/your‐profile)  
-- 🌐 Portfolio: [your-portfolio.site](https://your-portfolio.site)  
-- 🐙 GitHub: [github.com/tanmayjoddar](https://github.com/tanmayjoddar)
-
+<p align="center">
+  <a href="mailto:tanmayjoddar@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" /></a>
+  <a href="https://www.linkedin.com/in/tanmay-joddar-67107427a/"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
+  <a href="https://github.com/tanmayjoddar"><img src="https://skillicons.dev/icons?i=github" width="40" /></a>
+  <a href="https://your-portfolio.site"><img src="https://skillicons.dev/icons?i=vercel" width="40" /></a>
+  <a href="https://discord.com/users/yourdiscordid"><img src="https://skillicons.dev/icons?i=discord" width="40" /></a>
+  <a href="https://youtube.com/@yourchannel"><img src="https://skillicons.dev/icons?i=youtube" width="40" /></a>
+  <a href="https://instagram.com/yourhandle"><img src="https://skillicons.dev/icons?i=instagram" width="40" /></a>
+  <a href="https://twitter.com/yourhandle"><img src="https://skillicons.dev/icons?i=twitter" width="40" /></a>
+</p>
 ---
 
 > “I don’t just build endpoints — I build resilient backend systems that empower the frontend, deliver value and scale.”  
