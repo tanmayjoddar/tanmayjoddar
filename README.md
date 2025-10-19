@@ -115,11 +115,10 @@
   <a href="https://www.linkedin.com/in/tanmay-joddar-67107427a/"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
   <a href="https://github.com/tanmayjoddar"><img src="https://skillicons.dev/icons?i=github" width="40" /></a>
   <a href="https://discord.com/users/yourboitj"><img src="https://skillicons.dev/icons?i=discord" width="40" /></a>
- <a href="https://www.youtube.com/@TJ678F">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" width="40" />
+<a href="https://www.youtube.com/@TJ678F">
+  <img src="https://cdn.simpleicons.org/youtube/FF0000" width="40" />
 </a>
-
-  <a href="https://www.instagram.com/may_tan010"><img src="https://skillicons.dev/icons?i=instagram" width="40" /></a>
+ <a href="https://www.instagram.com/may_tan010"><img src="https://skillicons.dev/icons?i=instagram" width="40" /></a>
   <a href="https://x.com/joddar_tan8236"><img src="https://skillicons.dev/icons?i=twitter" width="40" /></a>
 </p>
 
