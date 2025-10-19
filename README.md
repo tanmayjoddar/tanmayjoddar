@@ -91,7 +91,21 @@
 ---
 
 ###  GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanmayjoddar&show_icons=true&theme=radical) 
+<div align="center">
+
+<table>
+<tr>
+  <td>
+    <img src="https://github-readme-stats.vercel.app/api?username=tanmayjoddar&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=false" />
+  </td>
+  <td>
+    <img src="https://nirzak-streak-stats.vercel.app/?user=tanmayjoddar&theme=rose_pine&hide_border=false" />
+  </td>
+</tr>
+</table>
+
+</div>
+
 
 ---
 
