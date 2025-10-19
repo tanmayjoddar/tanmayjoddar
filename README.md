@@ -89,13 +89,12 @@
 
 ---
 
-### 📈 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanmayjoddar&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanmayjoddar&layout=compact&theme=radical)
+###  GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanmayjoddar&show_icons=true&theme=radical) 
 
 ---
 
-### 🤝 Let’s Connect  
+### Let’s Connect  
 <p align="center">
   <a href="mailto:tanmayjoddar@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" /></a>
   <a href="https://www.linkedin.com/in/tanmay-joddar-67107427a/"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
@@ -114,5 +113,5 @@
 
 ---
 
-Thanks for stopping by my profile. **Let’s build something great together! 🚀**
+Thanks for stopping by my profile. **Let’s build something great together! **
 
