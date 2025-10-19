@@ -14,12 +14,59 @@
 - Actively open to Backend / API / Cloud roles. Ready for remote / hybrid opportunities.
 
 ---
+## ⚙️ Tech Stack
 
-### 🧰 Tech Stack  
+###  Frontend & React Ecosystem  
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,java,springboot,python,django,postgres,mongodb,redis,aws,docker,kubernetes,github,git&perline=7" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,redux,tailwind,materialui,bootstrap,vite,webpack,html,css" />
 </div>  
-*Icon list (customize to your exact stack): Node.js • Express • Java • Spring Boot • Python • Django • PostgreSQL • MongoDB • Redis • AWS • Docker • Kubernetes • GitHub • Git*
+> React • TypeScript • JavaScript • Redux • Tailwind CSS • Material UI • Bootstrap • Vite • Webpack  
+
+---
+
+### Backend & Frameworks  
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php,laravel,ruby,rails,fastapi" />
+</div>  
+> Node.js • Express.js • NestJS • PHP • Laravel • Ruby on Rails • FastAPI  
+> Exploring robust backend architectures — monoliths to microservices, with REST + GraphQL APIs.
+
+---
+
+###  DevOps, Cloud & Caching  
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,gcp,git,github,nginx,redis" />
+</div>  
+> Docker • Kubernetes • AWS • Azure • GCP • Redis • RabbitMQ • BullMQ • CI/CD (GitHub Actions, Jenkins)  
+
+---
+
+###  Web3 & Blockchain  
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=solidity,ethereum,ipfs" />
+</div>  
+> Solidity • OpenZeppelin • Alchemy APIs • zk-Proofs (ZKPs) • Smart Contracts • Decentralized AI Protocols  
+
+---
+
+###  Databases  
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql" />
+</div>  
+> PostgreSQL • MongoDB • MySQL  
+
+---
+
+### AI / ML & Data Science  
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow" />
+</div>  
+> Python • TensorFlow • Matplotlib • NumPy • Data Visualization  
+
+---
+
+##  Tools & Practices  
+Clean Code • SOLID Principles • API Documentation (Swagger/Postman) • Version Control (Git) • Agile Workflows • System Design  
 
 ---
 
