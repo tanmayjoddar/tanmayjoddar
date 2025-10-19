@@ -96,7 +96,7 @@
 
 ### Let’s Connect  
 <p align="center">
-  <a href="mailto:tanmayjoddar@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" /></a>
+  <a href="mailto:tanmayjoddar17@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" /></a>
   <a href="https://www.linkedin.com/in/tanmay-joddar-67107427a/"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
   <a href="https://github.com/tanmayjoddar"><img src="https://skillicons.dev/icons?i=github" width="40" /></a>
   <a href="https://your-portfolio.site"><img src="https://skillicons.dev/icons?i=vercel" width="40" /></a>
