@@ -8,60 +8,60 @@
 
 ---
 
-### 🎯 Current Focus  
+###  Current Focus  
 - Specialising in backend engineering: REST/GraphQL APIs, microservices, high-availability & cloud deployment  
 - Strong full-stack foundation — I bridge frontend ↔ backend effectively  
 - Actively open to Backend / API / Cloud roles. Ready for remote / hybrid opportunities.
 
 ---
-## ⚙️ Tech Stack
+##  Tech Stack
 
-### 🧠 Frontend & React Ecosystem  
+###  Frontend & React Ecosystem  
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,tailwind,materialui,vite,webpack,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,redux,tailwind,materialui,vite,webpack,html,css" />
 </div>  
-> React • TypeScript • JavaScript • Tailwind CSS • Material UI • Vite • Webpack  
-> Building fast, modular, and elegant frontends with modern React frameworks and tooling.
+> React • Redux • TypeScript • JavaScript • Tailwind CSS • Material UI • Vite • Webpack  
+> Crafting fast, modular and interactive UIs with modern React frameworks and state management.
 
 ---
 
-### 🧩 Backend & Frameworks  
+###  Backend & Frameworks  
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php,laravel,adonis,fastify,hapi" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php,laravel,adonis,hapi" />
 </div>  
-> Node.js • Express.js • NestJS • PHP • Laravel • AdonisJS • Fastify • Hapi  
-> Expert in backend frameworks powered by Node.js & PHP — from monolithic to microservice architectures with REST & GraphQL APIs.
+> Node.js • Express.js • NestJS • PHP • Laravel • AdonisJS • Hapi  
+> Building scalable, modular backends with REST and GraphQL APIs, leveraging Node and PHP ecosystems.
 
 ---
 
-### ☁️ DevOps, Cloud & Caching  
+###  DevOps, Cloud & Caching  
 <div align="center">
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,github,nginx,redis" />
 </div>  
 > Docker • Kubernetes • AWS • Redis • RabbitMQ • BullMQ • Nginx • CI/CD (GitHub Actions, Jenkins)  
-> Experience in cloud deployment, caching, containerisation & performance tuning.
+> Skilled in deploying, scaling, and caching high-performance systems.
 
 ---
 
-### 🧬 Web3 & Blockchain  
+###  Web3 & Blockchain  
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=solidity,ethereum,ipfs" />
+  <img src="https://skillicons.dev/icons?i=solidity,ethereum,ipfs,web3" />
 </div>  
-> Solidity • Ethereum • IPFS • OpenZeppelin • Alchemy APIs • zk-Proofs (ZKPs)  
-> Experienced in smart contracts, blockchain APIs & decentralized logic integration.
+> Solidity • Ethereum • IPFS • Web3.js • OpenZeppelin • Alchemy APIs • zk-Proofs (ZKPs)  
+> Experienced in building smart contracts, decentralized protocols, and integrating blockchain APIs.
 
 ---
 
-### 🗄️ Databases  
+###  Databases  
 <div align="center">
   <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql" />
 </div>  
 > PostgreSQL • MongoDB • MySQL  
-> Designing efficient schemas, optimizing queries, and managing both SQL & NoSQL data models.
+> Expertise in schema design, indexing, transactions, and query optimization.
 
 ---
 
-### 🤖 AI / ML & Data Science  
+###  AI / ML & Data Science  
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,tensorflow" />
 </div>  
@@ -69,11 +69,15 @@
 
 ---
 
-## 🧰 Tools & Practices  
-Clean Code • SOLID Principles • System Design • API Documentation (Swagger/Postman) •  
-Version Control (Git, GitHub, GitLab) • Agile Workflows • Code Reviews • Deployment Automation  
+###  Tools & Practices  
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,swagger" />
+</div>  
+> Git • GitHub • GitLab • Postman • Swagger • API Documentation • System Design • Agile Workflows • Code Reviews  
+> Focusing on clean architecture, SOLID principles, version control, and continuous delivery.
 
 ---
+
 
 
 ### 🔍 What I Bring to the Table  
