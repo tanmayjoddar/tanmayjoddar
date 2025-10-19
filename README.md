@@ -123,5 +123,5 @@
 
 ---
 
-Thanks for stopping by my profile. **Let’s build something great together! **
+Thanks for stopping by my profile.
 
