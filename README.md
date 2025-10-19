@@ -100,10 +100,11 @@
   <a href="https://www.linkedin.com/in/tanmay-joddar-67107427a/"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
   <a href="https://github.com/tanmayjoddar"><img src="https://skillicons.dev/icons?i=github" width="40" /></a>
   <a href="https://discord.com/users/yourboitj"><img src="https://skillicons.dev/icons?i=discord" width="40" /></a>
-  <a href="[https://youtube.com/@yourchannel](https://www.youtube.com/@TJ678F)"><img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" height="30"/></a>
+  <a href="https://www.youtube.com/@TJ678F"><img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" height="30"/></a>
   <a href="https://instagram.com/yourhandle"><img src="https://skillicons.dev/icons?i=instagram" width="40" /></a>
   <a href="https://twitter.com/yourhandle"><img src="https://skillicons.dev/icons?i=twitter" width="40" /></a>
 </p>
+
 
 ---
 
