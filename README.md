@@ -28,7 +28,7 @@
 
 ###  Backend & Frameworks  
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php,laravel,adonis" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php,laravel,adonis,hapi" />
 </div>  
 > Node.js • Express.js • NestJS • PHP • Laravel • AdonisJS • Hapi  
 > Building scalable, modular backends with REST and GraphQL APIs, leveraging Node and PHP ecosystems.
