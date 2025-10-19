@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 Hi, I’m Tanmay Joddar</h1>
+<h1 align="center">👋 Hey there, I'm <span style="color:#00ADB5;">Tanmay Joddar</span></h1>
   <p>  
     <strong>Full-Stack Developer → Backend Engineer</strong>  
     Building scalable, performant server-side systems and APIs.  
