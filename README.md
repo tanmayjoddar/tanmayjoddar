@@ -16,7 +16,7 @@
 ---
 ##  Tech Stack
 
-###  Frontend & React Ecosystem  
+###  Frontend 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,typescript,javascript,redux,tailwind,materialui,vite,webpack,html,css" />
 </div>  
@@ -27,7 +27,7 @@
 
 ###  Backend & Frameworks  
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php,laravel,adonis,hapi" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php,laravel,adonis" />
 </div>  
 > Node.js • Express.js • NestJS • PHP • Laravel • AdonisJS • Hapi  
 > Building scalable, modular backends with REST and GraphQL APIs, leveraging Node and PHP ecosystems.
