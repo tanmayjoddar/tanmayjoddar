@@ -16,48 +16,52 @@
 ---
 ## ⚙️ Tech Stack
 
-###  Frontend & React Ecosystem  
+### 🧠 Frontend & React Ecosystem  
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,redux,tailwind,materialui,bootstrap,vite,webpack,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,tailwind,materialui,vite,webpack,html,css" />
 </div>  
-> React • TypeScript • JavaScript • Redux • Tailwind CSS • Material UI • Bootstrap • Vite • Webpack  
+> React • TypeScript • JavaScript • Tailwind CSS • Material UI • Vite • Webpack  
+> Building fast, modular, and elegant frontends with modern React frameworks and tooling.
 
 ---
 
-### Backend & Frameworks  
+### 🧩 Backend & Frameworks  
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php,laravel,ruby,rails,fastapi" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php,laravel,adonis,fastify,hapi" />
 </div>  
-> Node.js • Express.js • NestJS • PHP • Laravel • Ruby on Rails • FastAPI  
-> Exploring robust backend architectures — monoliths to microservices, with REST + GraphQL APIs.
+> Node.js • Express.js • NestJS • PHP • Laravel • AdonisJS • Fastify • Hapi  
+> Expert in backend frameworks powered by Node.js & PHP — from monolithic to microservice architectures with REST & GraphQL APIs.
 
 ---
 
-###  DevOps, Cloud & Caching  
+### ☁️ DevOps, Cloud & Caching  
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,gcp,git,github,nginx,redis" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,github,nginx,redis" />
 </div>  
-> Docker • Kubernetes • AWS • Azure • GCP • Redis • RabbitMQ • BullMQ • CI/CD (GitHub Actions, Jenkins)  
+> Docker • Kubernetes • AWS • Redis • RabbitMQ • BullMQ • Nginx • CI/CD (GitHub Actions, Jenkins)  
+> Experience in cloud deployment, caching, containerisation & performance tuning.
 
 ---
 
-###  Web3 & Blockchain  
+### 🧬 Web3 & Blockchain  
 <div align="center">
   <img src="https://skillicons.dev/icons?i=solidity,ethereum,ipfs" />
 </div>  
-> Solidity • OpenZeppelin • Alchemy APIs • zk-Proofs (ZKPs) • Smart Contracts • Decentralized AI Protocols  
+> Solidity • Ethereum • IPFS • OpenZeppelin • Alchemy APIs • zk-Proofs (ZKPs)  
+> Experienced in smart contracts, blockchain APIs & decentralized logic integration.
 
 ---
 
-###  Databases  
+### 🗄️ Databases  
 <div align="center">
   <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql" />
 </div>  
 > PostgreSQL • MongoDB • MySQL  
+> Designing efficient schemas, optimizing queries, and managing both SQL & NoSQL data models.
 
 ---
 
-### AI / ML & Data Science  
+### 🤖 AI / ML & Data Science  
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,tensorflow" />
 </div>  
@@ -65,10 +69,12 @@
 
 ---
 
-##  Tools & Practices  
-Clean Code • SOLID Principles • API Documentation (Swagger/Postman) • Version Control (Git) • Agile Workflows • System Design  
+## 🧰 Tools & Practices  
+Clean Code • SOLID Principles • System Design • API Documentation (Swagger/Postman) •  
+Version Control (Git, GitHub, GitLab) • Agile Workflows • Code Reviews • Deployment Automation  
 
 ---
+
 
 ### 🔍 What I Bring to the Table  
 - ✅ Design & build backend systems from scratch or optimise existing ones  
