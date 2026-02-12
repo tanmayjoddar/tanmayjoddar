@@ -26,6 +26,7 @@
 
 ---
 ###  Current Focus  
+- Building **NEXUS AI** — an enterprise-grade autonomous AI coding agent with multi-model orchestration, vector memory, reasoning engine, and production DevOps
 - Specialising in backend engineering: REST/GraphQL APIs, microservices, high-availability & cloud deployment  
 - Strong full-stack foundation — I bridge frontend ↔ backend effectively  
 - Actively open to Backend / API / Cloud roles. Ready for remote / hybrid opportunities.
