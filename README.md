@@ -25,11 +25,17 @@
 
 
 ---
-###  Current Focus  
-- Building **NEXUS AI** — an enterprise-grade autonomous AI coding agent with multi-model orchestration, vector memory, reasoning engine, and production DevOps
-- Specialising in backend engineering: REST/GraphQL APIs, microservices, high-availability & cloud deployment  
-- Strong full-stack foundation — I bridge frontend ↔ backend effectively  
-- Actively open to Backend / API / Cloud roles. Ready for remote / hybrid opportunities.
+**Active Projects:**  
+
+- **[NEXUS AI – Autonomous Coding Agent Platform](https://github.com/tanmayjoddar/nexus-ai)**  
+  Enterprise-grade AI coding agent with multi-model orchestration, vector memory, reasoning engine, and production DevOps  
+
+- **[CodeBuddy – Real-Time Collaborative Code Editor](https://github.com/tanmayjoddar/codebuddy)**  
+  Real-time collaborative coding platform with live synchronization, chat, and integrated execution  
+
+- **[EdgeSense – Offline-First P2P Edge Intelligence Platform](https://github.com/tanmayjoddar/edge-sense)**  
+  Offline-first peer-to-peer edge computing system for air-quality monitoring using WebRTC, PWA, and distributed sensor collaboration  
+
 
 ---
 ##  Tech Stack
