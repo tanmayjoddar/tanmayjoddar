@@ -43,12 +43,13 @@
 
 ---
 
-###  Backend & Frameworks  
+### Backend & Frameworks  
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php,laravel,adonis,hapi" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php,laravel,adonis,hapi,python,django,fastapi" />
 </div>  
-> Node.js • Express.js • NestJS • PHP • Laravel • AdonisJS • Hapi  
-> Building scalable, modular backends with REST and GraphQL APIs, leveraging Node and PHP ecosystems.
+
+> Node.js • Express.js • NestJS • PHP • Laravel • AdonisJS • Hapi • Python • Django • DRF  
+> Building scalable, modular backends with REST and GraphQL APIs, leveraging Node, PHP, and Python ecosystems. Active contributor to GreedyBear (IntelOwl / The Honeynet Project) — Django/DRF threat intelligence platform.
 
 ---
 
