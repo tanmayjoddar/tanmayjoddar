@@ -45,7 +45,9 @@
 
 ### Backend & Frameworks  
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php,laravel,adonis,hapi,python,django,fastapi" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php,laravel,adonis,hapi" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi" />
 </div>  
 
 > Node.js • Express.js • NestJS • PHP • Laravel • AdonisJS • Hapi • Python • Django • DRF  
