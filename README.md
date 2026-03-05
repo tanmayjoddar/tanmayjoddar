@@ -49,7 +49,14 @@
 </div>  
 
 > Node.js • Express.js • NestJS • PHP • Laravel • AdonisJS • Hapi • Python • Django • DRF  
-> Building scalable, modular backends with REST and GraphQL APIs, leveraging Node, PHP, and Python ecosystems. Active contributor to GreedyBear (IntelOwl / The Honeynet Project) — Django/DRF threat intelligence platform.
+> Building scalable, modular backends with REST and GraphQL APIs, leveraging Node, PHP, and Python ecosystems.
+
+<div align="center">
+
+**Currently Contributing to Open Source:**  
+[**GreedyBear**](https://github.com/intelowlproject/GreedyBear) — Django/DRF threat intelligence platform · [IntelOwl Project](https://github.com/intelowlproject) / [The Honeynet Project](https://www.honeynet.org)  
+
+</div>
 
 ---
 
