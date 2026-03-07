@@ -109,11 +109,11 @@
 
 
 ### 🔍 What I Bring to the Table  
-- ✅ Design & build backend systems from scratch or optimise existing ones  
-- ✅ Robust API design (REST/GraphQL), DB schema & query optimisation, caching with Redis  
-- ✅ DevOps & cloud mindset: containerisation (Docker/K8s), CI/CD pipelines, AWS services  
-- ✅ Collaboration advantage: full-stack experience means I understand the frontend too  
-- ✅ Clean code, SOLID principles, testing (unit/integration), performance tuning
+- Design & build backend systems from scratch or optimise existing ones  
+- Robust API design (REST/GraphQL), DB schema & query optimisation, caching with Redis  
+- DevOps & cloud mindset: containerisation (Docker/K8s), CI/CD pipelines, AWS services  
+- Collaboration advantage: full-stack experience means I understand the frontend too  
+- Clean code, SOLID principles, testing (unit/integration), performance tuning
 
 ---
 
@@ -123,7 +123,7 @@
 <table>
 <tr>
   <td>
-    <img src="https://github-readme-stats.vercel.app/api?username=tanmayjoddar&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=false" width="400" height="200" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tanmayjoddar&show_icons=true&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=false" width="400" height="200" />
   </td>
   <td>
     <img src="https://nirzak-streak-stats.vercel.app/?user=tanmayjoddar&theme=rose_pine&hide_border=false" width="400" height="200" />
@@ -132,7 +132,6 @@
 </table>
 
 </div>
-
 
 
 ---
