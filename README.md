@@ -122,12 +122,17 @@
 
 <table>
 <tr>
-  <td>
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tanmayjoddar&show_icons=true&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=false" width="400" height="200" />
-  </td>
-  <td>
-    <img src="https://nirzak-streak-stats.vercel.app/?user=tanmayjoddar&theme=rose_pine&hide_border=false" width="400" height="200" />
-  </td>
+<td>
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tanmayjoddar&show_icons=true&theme=rose_pine&bg_color=0d1117&title_color=ebbcba&text_color=c9d1d9&icon_color=eb6f92&border_color=30363d" width="400"/>
+
+</td>
+
+<td>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=tanmayjoddar&theme=rose_pine&hide_border=false&background=0d1117" width="400"/>
+
+</td>
 </tr>
 </table>
 
