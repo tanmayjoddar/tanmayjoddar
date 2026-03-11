@@ -38,7 +38,7 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,typescript,javascript,redux,tailwind,materialui,vite,webpack,html,css" />
 </div>  
-> React • Redux • TypeScript • JavaScript • Tailwind CSS • Material UI • Vite • Webpack  
+> React • Redux • TypeScript • JavaScript • Tailwind CSS • Material UI • Vite • Webpack   
 > Crafting fast, modular and interactive UIs with modern React frameworks and state management.
 
 ---
