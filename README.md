@@ -130,7 +130,7 @@
 
 <td>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=tanmayjoddar&theme=rose_pine&hide_border=false&background=0d1117" width="400"/>
+<img src="https://streak-stats.demolab.com/?user=tanmayjoddar&theme=rose_pine&background=0d1117&ring=eb6f92&fire=eb6f92&currStreakLabel=ebbcba&sideLabels=c9d1d9&currStreakNum=ebbcba&sideNums=c9d1d9&dates=c9d1d9&border=30363d" width="400"/>
 
 </td>
 </tr>
