@@ -15,9 +15,6 @@ CLI tool that snapshots API response *shapes* — field names and types, never a
 **[CuraBlock](https://github.com/tanmayjoddar/CuraBlock-ETHGlobal)**  
 Web3 security wallet with an AI fraud detection model scanning 18 dimensions of wallet behavior, a quadratic voting DAO (voting power = √tokens staked, so whales can't dominate), and soulbound on-chain reputation stored as Base64-encoded JSON directly in the contract — no IPFS, no server dependency. The interesting design decision: `getDAOScamBoost()` feeds community-confirmed scam addresses back into the ML model's risk scoring, so the system improves with every vote. 8 production Solidity contracts on Monad Testnet. Full-stack: React + Go (Gin) + PostgreSQL + Python/scikit-learn.
 
-**[NEXUS AI](https://github.com/tanmayjoddar/nexus-ai)**  
-Multi-model coding agent that orchestrates Claude, GPT-4, and Gemini with automatic fallback based on task complexity. The core idea: a 384-dimensional semantic vector memory that extracts patterns from past executions and adapts future runs — so the agent actually learns rather than just calling an LLM repeatedly. Ships with 5 reasoning strategies (chain-of-thought, self-reflection, adversarial stress-testing, etc.), 30+ tools, circuit breakers, and rate limiting. Deployed via Docker Compose + Kubernetes manifests. Currently alpha (65% production-ready, honest about it).
-
 **[FloodMesh](https://github.com/tanmayjoddar/FloodMesh-Disaster-Resilient-Messaging)**  
 Disaster-resilient mesh messaging that routes over Bluetooth and Wi-Fi Direct when the internet is down. E2E encrypted, offline-first, deployed to Vercel (26 production deployments).
 
