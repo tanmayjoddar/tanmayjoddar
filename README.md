@@ -15,6 +15,9 @@ CLI tool that snapshots API response *shapes* — field names and types, never a
 **[CuraBlock](https://github.com/tanmayjoddar/CuraBlock-ETHGlobal)**  
 Web3 security wallet with an AI fraud detection model scanning 18 dimensions of wallet behavior, a quadratic voting DAO (voting power = √tokens staked, so whales can't dominate), and soulbound on-chain reputation stored as Base64-encoded JSON directly in the contract — no IPFS, no server dependency. The interesting design decision: `getDAOScamBoost()` feeds community-confirmed scam addresses back into the ML model's risk scoring, so the system improves with every vote. 8 production Solidity contracts on Monad Testnet. Full-stack: React + Go (Gin) + PostgreSQL + Python/scikit-learn.
 
+**[CodeCrafter](https://github.com/tanmayjoddar/Muweb)**  
+Real-time collaborative code execution platform where multiple users can edit and run code simultaneously using CRDT-based synchronization and WebSocket communication. Code runs inside isolated Docker sandboxes with distributed RabbitMQ workers, Redis-backed session sync, and multi-language execution support (JS, Python, Java, C++, Go, Rust). Designed like “Google Docs for code” but with secure containerized execution, scalable worker orchestration, and production-style observability using Prometheus + Grafana.
+
 **[FloodMesh](https://github.com/tanmayjoddar/FloodMesh-Disaster-Resilient-Messaging)**  
 Disaster-resilient mesh messaging that routes over Bluetooth and Wi-Fi Direct when the internet is down. E2E encrypted, offline-first, deployed to Vercel (26 production deployments).
 
