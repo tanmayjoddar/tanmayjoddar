@@ -18,9 +18,6 @@ Web3 security wallet with an AI fraud detection model scanning 18 dimensions of 
 **[NEXUS AI](https://github.com/tanmayjoddar/nexus-ai)**  
 Multi-model coding agent that orchestrates Claude, GPT-4, and Gemini with automatic fallback based on task complexity. The core idea: a 384-dimensional semantic vector memory that extracts patterns from past executions and adapts future runs — so the agent actually learns rather than just calling an LLM repeatedly. Ships with 5 reasoning strategies (chain-of-thought, self-reflection, adversarial stress-testing, etc.), 30+ tools, circuit breakers, and rate limiting. Deployed via Docker Compose + Kubernetes manifests. Currently alpha (65% production-ready, honest about it).
 
-**[EdgeSense](https://github.com/tanmayjoddar/edge-sense)**  
-Offline-first P2P edge system where browser tabs act as independent sensor nodes, sharing air-quality readings over WebRTC data channels — no server relay. Cloud only receives aggregated summaries (~85% bandwidth reduction). Keeps working during full internet outages via IndexedDB + exponential backoff sync. Written in pure SQL (no ORM) because when syncing delayed sensor data with conflict resolution, you need precise control over `FOR UPDATE SKIP LOCKED` and upsert semantics that an ORM abstracts away badly.
-
 **[FloodMesh](https://github.com/tanmayjoddar/FloodMesh-Disaster-Resilient-Messaging)**  
 Disaster-resilient mesh messaging that routes over Bluetooth and Wi-Fi Direct when the internet is down. E2E encrypted, offline-first, deployed to Vercel (26 production deployments).
 
