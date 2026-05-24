@@ -1,146 +1,64 @@
-<div align="center">
-  <h1 align="center">👋 Hey there, I'm <span style="color:#FF6B6B;">Tanmay Joddar</span></h1>
-  <p>  
-    <strong>Full-Stack Developer → Backend Engineer</strong>  
-    Building scalable, performant server-side systems and APIs.  
-  </p>
-</div>
+# Tanmay Joddar
 
+Backend engineer and CS undergrad (B.Tech IT) based in Kolkata.  
+I build systems that sit at the intersection of backend infrastructure, Web3, and AI — things that are useful to run in production, not just impressive in a demo.
+
+Currently contributing to [GreedyBear](https://github.com/intelowlproject/GreedyBear) under The Honeynet Project. GSoC 2026 applicant (Project #6 — Injection/Event Collector API).
 
 ---
 
-### Let’s Connect  
-<p align="center">
-  <a href="mailto:tanmayjoddar17@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" /></a>
-  <a href="https://www.linkedin.com/in/tanmay-joddar-67107427a/"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
-  <a href="https://github.com/tanmayjoddar"><img src="https://skillicons.dev/icons?i=github" width="40" /></a>
-  <a href="https://discord.com/users/yourboitj"><img src="https://skillicons.dev/icons?i=discord" width="40" /></a>
-<a href="https://www.youtube.com/@TJ678F">
-  <img src="https://cdn.simpleicons.org/youtube/FF0000" width="40" />
-</a>
- <a href="https://www.instagram.com/may_tan010"><img src="https://skillicons.dev/icons?i=instagram" width="40" /></a>
-  <a href="https://x.com/joddar_tan8236"><img src="https://skillicons.dev/icons?i=twitter" width="40" /></a>
-</p>
+### Projects
 
+**[apidrift-cli](https://github.com/tanmayjoddar/apidrift)**  
+CLI tool that snapshots API response *shapes* — field names and types, never actual data — and diffs them across versions, environments, or deploys. One command catches a `userId: string → number` before it silently breaks clients at 3am. CI-native: exits with code 1 on breaking changes, so it gates deploys without extra config. Published on npm.
 
+**[CuraBlock](https://github.com/tanmayjoddar/CuraBlock-ETHGlobal)**  
+Web3 security wallet with an AI fraud detection model scanning 18 dimensions of wallet behavior, a quadratic voting DAO (voting power = √tokens staked, so whales can't dominate), and soulbound on-chain reputation stored as Base64-encoded JSON directly in the contract — no IPFS, no server dependency. The interesting design decision: `getDAOScamBoost()` feeds community-confirmed scam addresses back into the ML model's risk scoring, so the system improves with every vote. 8 production Solidity contracts on Monad Testnet. Full-stack: React + Go (Gin) + PostgreSQL + Python/scikit-learn.
 
----
-**Currently Building:**  
+**[NEXUS AI](https://github.com/tanmayjoddar/nexus-ai)**  
+Multi-model coding agent that orchestrates Claude, GPT-4, and Gemini with automatic fallback based on task complexity. The core idea: a 384-dimensional semantic vector memory that extracts patterns from past executions and adapts future runs — so the agent actually learns rather than just calling an LLM repeatedly. Ships with 5 reasoning strategies (chain-of-thought, self-reflection, adversarial stress-testing, etc.), 30+ tools, circuit breakers, and rate limiting. Deployed via Docker Compose + Kubernetes manifests. Currently alpha (65% production-ready, honest about it).
 
-- **[NEXUS AI – Autonomous Coding Agent Platform](https://github.com/tanmayjoddar/nexus-ai)**  
-  Enterprise-grade AI coding agent with multi-model orchestration, vector memory, reasoning engine, and production DevOps  
+**[EdgeSense](https://github.com/tanmayjoddar/edge-sense)**  
+Offline-first P2P edge system where browser tabs act as independent sensor nodes, sharing air-quality readings over WebRTC data channels — no server relay. Cloud only receives aggregated summaries (~85% bandwidth reduction). Keeps working during full internet outages via IndexedDB + exponential backoff sync. Written in pure SQL (no ORM) because when syncing delayed sensor data with conflict resolution, you need precise control over `FOR UPDATE SKIP LOCKED` and upsert semantics that an ORM abstracts away badly.
 
-
----
-##  Tech Stack
-
-###  Frontend 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,redux,tailwind,materialui,vite,webpack,html,css" />
-</div>  
-> React • Redux • TypeScript • JavaScript • Tailwind CSS • Material UI • Vite • Webpack   
-> Crafting fast, modular and interactive UIs with modern React frameworks and state management.
+**[FloodMesh](https://github.com/tanmayjoddar/FloodMesh-Disaster-Resilient-Messaging)**  
+Disaster-resilient mesh messaging that routes over Bluetooth and Wi-Fi Direct when the internet is down. E2E encrypted, offline-first, deployed to Vercel (26 production deployments).
 
 ---
 
-### Backend & Frameworks  
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php,laravel,adonis,hapi" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi" />
-</div>  
+## Open Source Contributions 
+-Contributed to the open-source project [GreedyBear](https://github.com/intelowlproject/GreedyBear) with multiple merged pull requests focused on bug fixes, data extraction reliability, GeoIP enrichment, IOC merging logic, and testing improvements.
 
-> Node.js • Express.js • NestJS • PHP • Laravel • AdonisJS • Hapi • Python • Django • DRF  
-> Building scalable, modular backends with REST and GraphQL APIs, leveraging Node, PHP, and Python ecosystems.
+### Merged Pull Requests
 
-<div align="center">
+| PR | Contribution |
+|---|---|
+| [#1217](https://github.com/intelowlproject/GreedyBear/pull/1217) | Fixed Cowrie timestamp parsing using `parse_timestamp()` to ensure proper session event extraction |
+| [#1178](https://github.com/intelowlproject/GreedyBear/pull/1178) | Fixed GeoIP enrichment bug by scanning all hits in `iocs_from_hits()` |
+| [#1010](https://github.com/intelowlproject/GreedyBear/pull/1010) | Added sorting guard in `_update_days_seen` to prevent corrupted `days_seen` ordering |
+| [#1005](https://github.com/intelowlproject/GreedyBear/pull/1005) | Added test coverage for `ClusterCommandSequences.run()` |
+| [#974](https://github.com/intelowlproject/GreedyBear/pull/974) | Improved IOC merging logic using proper `first_seen` and `last_seen` semantics |
+| [#933](https://github.com/intelowlproject/GreedyBear/pull/933) | Propagated `firehol_categories` correctly in `_merge_iocs` |
+| [#885](https://github.com/intelowlproject/GreedyBear/pull/885) | Replaced regex-based IP validation with Python `ipaddress` standard library |
 
-**Currently Contributing to Open Source:**  
-[**GreedyBear**](https://github.com/intelowlproject/GreedyBear) — Django/DRF threat intelligence platform · [IntelOwl Project](https://github.com/intelowlproject) / [The Honeynet Project](https://www.honeynet.org)  
+### Highlights
+- 7 merged pull requests
+- Contributions approved and merged by project maintainers
+- Worked on cybersecurity-focused backend and enrichment pipelines
+- Submitted a GSoC 2026 proposal for the Injection/Event Collector API (Project #6)
 
-</div>
-
----
-
-###  DevOps, Cloud & Caching  
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,github,nginx,redis" />
-</div>  
-> Docker • Kubernetes • AWS • Redis • RabbitMQ • BullMQ • Nginx • CI/CD (GitHub Actions, Jenkins)  
-> Skilled in deploying, scaling, and caching high-performance systems.
+🔗 View all merged PRs:  
+https://github.com/intelowlproject/GreedyBear/pulls?q=is%3Apr+is%3Amerged+author%3Atanmayjoddar
 
 ---
 
-###  Web3 & Blockchain  
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=solidity,ethereum,ipfs,web3" />
-</div>  
-> Solidity • Ethereum • IPFS • Web3.js • OpenZeppelin • Alchemy APIs • zk-Proofs (ZKPs)  
-> Experienced in building smart contracts, decentralized protocols, and integrating blockchain APIs.
+### Stack
+
+**Backend** — Node.js · Python (Django · DRF · FastAPI) · Go (Gin) · PHP (Laravel)  
+**Infra** — Docker · Kubernetes · AWS · Redis · RabbitMQ · GitHub Actions · Nginx  
+**Web3** — Solidity · OpenZeppelin · ethers.js · IPFS · Hardhat  
+**DB** — PostgreSQL · MongoDB · MySQL  
 
 ---
 
-###  Databases  
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql" />
-</div>  
-> PostgreSQL • MongoDB • MySQL  
-> Expertise in schema design, indexing, transactions, and query optimization.
-
----
-
-###  AI / ML & Data Science  
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow" />
-</div>  
-> Python • TensorFlow • Matplotlib • NumPy • Data Visualization  
-
----
-
-###  Tools & Practices  
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,swagger" />
-</div>  
-> Git • GitHub • GitLab • Postman • Swagger • API Documentation • System Design • Agile Workflows • Code Reviews  
-> Focusing on clean architecture, SOLID principles, version control, and continuous delivery.
-
----
-
-
-
-### 🔍 What I Bring to the Table  
-- Design & build backend systems from scratch or optimise existing ones  
-- Robust API design (REST/GraphQL), DB schema & query optimisation, caching with Redis  
-- DevOps & cloud mindset: containerisation (Docker/K8s), CI/CD pipelines, AWS services  
-- Collaboration advantage: full-stack experience means I understand the frontend too  
-- Clean code, SOLID principles, testing (unit/integration), performance tuning
-
----
-
-###  GitHub Stats  
-<div align="center">
-
-<table>
-<tr>
-<td>
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tanmayjoddar&show_icons=true&theme=rose_pine&bg_color=0d1117&title_color=ebbcba&text_color=c9d1d9&icon_color=eb6f92&border_color=30363d" width="400"/>
-
-</td>
-
-<td>
-
-<img src="https://streak-stats.demolab.com/?user=tanmayjoddar&theme=rose_pine&background=0d1117&ring=eb6f92&fire=eb6f92&currStreakLabel=ebbcba&sideLabels=c9d1d9&currStreakNum=ebbcba&sideNums=c9d1d9&dates=c9d1d9&border=30363d" width="400"/>
-
-</td>
-</tr>
-</table>
-
-</div>
-
-
----
-
-
-Thanks for stopping by my profile.
-
+[Email](mailto:tanmayjoddar17@gmail.com) · [LinkedIn](https://www.linkedin.com/in/tanmay-joddar-67107427a/) · [GitHub](https://github.com/tanmayjoddar) · [Twitter](https://x.com/joddar_tan8236)
