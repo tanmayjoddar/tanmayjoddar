@@ -1,6 +1,6 @@
 # Tanmay Joddar
 
-Backend engineer and CS undergrad (B.Tech IT) based in Kolkata.  
+Backend engineer and CS undergrad (B.Tech IT) . 
 I build systems that sit at the intersection of backend infrastructure, Web3, and AI — things that are useful to run in production, not just impressive in a demo.
 
 Currently contributing to [GreedyBear](https://github.com/intelowlproject/GreedyBear) under The Honeynet Project. GSoC 2026 applicant (Project #6 — Injection/Event Collector API).
