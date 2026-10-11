@@ -9,6 +9,9 @@ Currently contributing to [GreedyBear](https://github.com/intelowlproject/Greedy
 
 ### Projects
 
+**[wa-agent](https://github.com/tanmayjoddar/waautomation)**  
+Multi-tenant AI automation engine running background reasoning pipelines over WhatsApp Cloud API with zero external queue dependencies. Uses PostgreSQL `FOR UPDATE SKIP LOCKED` for atomic worker claims, a 3-strike circuit breaker against retry storms, and deterministic post-checks that reject ungrounded prices or prompt leaks in code before dispatch. The key design decision: at-most-once delivery via pre-send `(job_id, part_index)` indexing, so crashes resume without re-running the LLM or duplicating customer messages. Hardened across 13 tables with 14 RLS policies, timing-safe HMAC auth, and 280 passing tests alongside a 27-case eval suite. Stack: TypeScript + PostgreSQL (Supabase) + Express + Zod + Vitest.
+
 **[RegTriage](https://github.com/tanmayjoddar/RegTriage)**  
 AI-driven regression automation agent that autonomously triages PCIe RTL simulation failures down to the root-cause source line. Ingests cocotb XML and UVM/Verilator logs, clustering duplicate failures via Jaccard signature hashing to eliminate redundant debugging. The interesting design decision: **machine-checked evidence validation** — cited source lines, quotes, and git commit SHAs are verified against git blobs before acceptance (2 retries before falling back to `unverified`), ensuring automated AI reports never hallucinate code. Hardened with 300+ tests at 92% coverage, 14 adversarial review fixes, and an append-only egress audit log. Built with Python 3.11 + Pydantic + Typer + Claude/Gemini.
 
