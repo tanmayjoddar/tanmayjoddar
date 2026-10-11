@@ -9,6 +9,9 @@ Currently contributing to [GreedyBear](https://github.com/intelowlproject/Greedy
 
 ### Projects
 
+**[RegTriage](https://github.com/tanmayjoddar/RegTriage)**  
+AI-driven regression automation agent that autonomously triages PCIe RTL simulation failures down to the root-cause source line. Ingests cocotb XML and UVM/Verilator logs, clustering duplicate failures via Jaccard signature hashing to eliminate redundant debugging. The interesting design decision: **machine-checked evidence validation** — cited source lines, quotes, and git commit SHAs are verified against git blobs before acceptance (2 retries before falling back to `unverified`), ensuring automated AI reports never hallucinate code. Hardened with 300+ tests at 92% coverage, 14 adversarial review fixes, and an append-only egress audit log. Built with Python 3.11 + Pydantic + Typer + Claude/Gemini.
+
 **[apidrift-cli](https://github.com/tanmayjoddar/apidrift)**  
 CLI tool that snapshots API response *shapes* — field names and types, never actual data — and diffs them across versions, environments, or deploys. One command catches a `userId: string → number` before it silently breaks clients at 3am. CI-native: exits with code 1 on breaking changes, so it gates deploys without extra config. Published on npm.
 
